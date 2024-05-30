@@ -1,0 +1,18 @@
+{
+  "name": "dev-jira-helper",
+  "version": "0.0.1",
+  "description": "This is a nodeJS tool to help opening jira tickets faster and better",
+  "main": "src/index.ts",
+  "repository": "https://github.com/AlmogElbaz/dev-jira-helper.git",
+  "author": "AlmogElbaz <116557566+AlmogElbaz@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "ts-node src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "ts-node": "^10.4.0",
+    "typescript": "^5.4.5"
+  }
+}
